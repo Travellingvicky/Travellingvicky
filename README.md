@@ -23,7 +23,7 @@
 - 🌱 Exploring the **Service-Based IT Industry**
 - 🤝 Open to collaborating on **challenging frontend and AI/ML projects**
 - 💬 Ask me about **JavaScript, React, Python, and AI/ML**
-- 📫 Reach me at **vp0186189@gmail.com**
+- 📨 Reach me at **vp0186189@gmail.com**
 - 🏆 Know about my achievements: [Hackathon Participation](#)
 
 ---
@@ -63,21 +63,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=travellingvicky&theme=default" alt="GitHub Streak" />
 </p>
 
----
-
-## 🧠 3D GitHub Contributions (Optional)
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Contribution" />
-</p>
-
-> 📝 *Make sure to generate and commit the `profile-green-animate.svg` using the GitHub Actions 3D contribution setup.*
-
----
 
 ## ✨ Custom Illustrations (Optional)
 
-You can add illustrations like this:
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Illustration" width="500" />
+</p>
 
-```html
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Illustration" width="500"/>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/1c8a2b2a4a767985b3dbe7ce2d47f918.gif" alt="Illustration 2" width="300" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3673493/illustration.gif" alt="Illustration 3" width="300" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Illustration 4" width="300" />
+</p>
+
+---
