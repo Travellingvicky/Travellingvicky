@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="code" width="400"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=travellingvicky&theme=gruvbox" alt="GitHub Trophy" />
   </a>
@@ -13,21 +17,29 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
 - 🔭 Currently working on a **MERN Stack Project**
-- 🌱 Learning about **Service-Based IT Industry**
-- 🤝 Looking to collaborate on **projects that expand my skills**
-- 💬 Ask me about **AI, Machine Learning, and Frontend Development**
+- 🌱 Exploring the **Service-Based IT Industry**
+- 🤝 Open to collaborating on **challenging frontend and AI/ML projects**
+- 💬 Ask me about **JavaScript, React, Python, and AI/ML**
 - 📫 Reach me at **vp0186189@gmail.com**
 - 🏆 Know about my achievements: [Hackathon Participation](#)
 
 ---
 
-### 🤝 Connect With Me
+## 🧑‍💻 Tech Stack & Tools
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/vicky-kumar-604546266" target="_blank">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,cpp,git,github,vscode,mysql" alt="Tech stack" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/vicky-kumar-604546266" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/u/vmay123/" target="_blank">
@@ -37,35 +49,35 @@
 
 ---
 
-### 🛠️ Languages and Tools
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=travellingvicky&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=travellingvicky&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=travellingvicky&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 3D GitHub Contributions (Optional)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=travellingvicky&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Contribution" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=travellingvicky&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+> 📝 *Make sure to generate and commit the `profile-green-animate.svg` using the GitHub Actions 3D contribution setup.*
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=travellingvicky&" alt="GitHub Streak" />
-</p>
+---
+
+## ✨ Custom Illustrations (Optional)
+
+You can add illustrations like this:
+
+```html
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Developer Illustration" width="500"/>
